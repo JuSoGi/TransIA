@@ -1,34 +1,44 @@
 # TransIA
 
-Sistema inteligente de búsqueda de rutas desarrollado en Python.
+## Sistema inteligente de búsqueda de rutas
 
-## Descripción
+TransIA es un prototipo académico desarrollado en Python que utiliza
+técnicas de Inteligencia Artificial para encontrar rutas dentro de una
+red simplificada de transporte.
 
-TransIA es un prototipo académico que utiliza una base de conocimiento
-representada mediante reglas de conexión entre estaciones de un sistema
-de transporte.
+El sistema utiliza una base de conocimiento formada por reglas de
+conexión entre estaciones y emplea el algoritmo de búsqueda heurística
+A* para encontrar una ruta de costo mínimo entre un punto de origen y
+un destino.
 
-A partir de un punto de origen y un destino, el sistema construye un
-espacio de búsqueda y utiliza el algoritmo A* para encontrar una ruta
-de menor costo dentro del modelo definido.
+---
 
 ## Objetivo
 
-Aplicar conceptos de:
+Aplicar conceptos relacionados con:
 
 - Representación del conocimiento.
 - Sistemas basados en reglas.
-- Búsqueda de estados.
+- Espacios de estados.
+- Búsqueda de rutas.
 - Búsqueda heurística.
 - Algoritmo A*.
+- Validación mediante pruebas.
 
-## Tecnologías
+---
 
-- Python
+## Tecnologías utilizadas
+
+- Python 3
 - Git
-- GitHub
+- GitHub/GitLab
 
-## Estructura
+El proyecto utiliza únicamente módulos incluidos en la biblioteca
+estándar de Python, por lo que no requiere instalar paquetes externos.
+
+---
+
+## Estructura del proyecto
 
 ```text
 TransIA/
@@ -36,4 +46,5 @@ TransIA/
 ├── conocimiento.py
 ├── busqueda.py
 ├── pruebas.py
-└── README.md
+├── README.md
+├── .gitignore

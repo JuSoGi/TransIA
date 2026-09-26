@@ -19,9 +19,9 @@ coordenadas = {
     "Calle 72": (3, 0),
     "Calle 57": (4, 0),
     "Universidades": (5, 0),
-    "Museo del Oro": (6, 0),
+    "Museo del Oro": (5, 1),
     "NQS": (2, 1),
-    "Ricaurte": (3, 2),
+    "Ricaurte": (3, 1),
     "Calle 19": (4, 1)
 }
 

@@ -1,0 +1,22 @@
+
+estacion,pasajeros_promedio,numero_conexiones,espera_minutos,nivel_demanda
+Portal Norte,950,3,8,Alta
+Calle 100,780,4,6,Alta
+Heroes,720,4,7,Alta
+Calle 72,650,3,7,Media
+Calle 57,420,2,10,Baja
+Universidades,850,4,5,Alta
+Museo del Oro,500,3,9,Media
+NQS,600,4,8,Media
+Ricaurte,900,5,6,Alta
+Calle 19,550,3,9,Media
+Estacion A,200,1,12,Baja
+Estacion B,300,2,11,Baja
+Estacion C,480,2,8,Media
+Estacion D,700,5,6,Alta
+Estacion E,350,1,10,Baja
+Estacion F,820,3,5,Alta
+Estacion G,520,4,9,Media
+Estacion H,250,2,13,Baja
+Estacion I,670,3,8,Media
+Estacion J,990,5,4,Alta
